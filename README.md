@@ -8,6 +8,9 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
+Before initiating download, ensure Windows 11 is instaled from a credible source. Open a preferred web browser and type 'visual studio code download'. Then, locate the downloaded VSCodeSetup file in your downloads folder or a preferred location and double-click the installer file to start the installation process. A User Account Control prompt may appear, asking if you want to allow the app to make changes to your device. Click "Yes" to proceed. The Visual Studio Code Setup wizard will open. Click "Next" to continue. Read and accept the License Agreement by checking the box and clicking "Next". Choose the destination folder where you want to install VS Code. The default location is usually fine. Click "Next". Choose the additional tasks you would like the installer to perform. These may include: Add "Open with Code" action to Windows Explorer file context menu. Then, add "Open with Code" action to Windows Explorer directory context menu
+Register Code as an editor for supported file types then add PATH as this is important. Check the options you prefer and click "Next". Click "Install" to begin the installation. Afterwards, Complete the installation process and set up the vs code. To finish, install the nescessary extensions and set the vs code according to your linking.
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
